@@ -12,7 +12,7 @@ a.active hr {
     display: block;
 }
 
-.a:hover {
+.a:hover { 
     color: purple;
     transition: 0.5s ease-in;
     border-radius: 10px;
